@@ -41,18 +41,6 @@ export default function Projects() {
                   </a>
                 </p>
               </li>
-              <li>
-                <p>
-                  <b>BlaBlaBla</b>
-                </p>
-                <p>blablabalblabalbalblablablablablabalbalablablab</p>
-              </li>
-              <li>
-                <p>
-                  <b>BlaBlaBla</b>
-                </p>
-                <p>blablabalblabalbalblablablablablabalbalablablab</p>
-              </li>
             </ul>
           </div>
         </div>
