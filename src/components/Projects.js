@@ -17,7 +17,7 @@ export default function Projects() {
                   Utviklet som en del av et gruppeprosjekt i faget IT2805
                   Webteknologi, første semester på informatikkstudiet.
                   <br />
-                  Sjekk den ut
+                  Sjekk den ut{" "}
                   <a
                     target="_blank"
                     rel="noreferrer"
@@ -35,7 +35,7 @@ export default function Projects() {
                   Utviklet som en del av et gruppeprosjekt i faget IT2810
                   Webutvikling ved bruk av React og TypeScript.
                   <br />
-                  Sjekk den ut
+                  Sjekk den ut{" "}
                   <a target="_blank" rel="noreferrer" href=" ">
                     her
                   </a>
