@@ -15,7 +15,11 @@ export default function Projects() {
                 </p>
                 <p>
                   Utviklet som en del av et gruppeprosjekt i faget IT2805
-                  Webteknologi, første semester på informatikkstudiet.
+                  Webteknologi, første semester på informatikkstudiet. Sjekk den
+                  ut{" "}
+                  <a href="http://folk.ntnu.no/karendaa/Webteknologi/venziaFERDIG/Prosjekt/html/">
+                    her
+                  </a>
                 </p>
               </li>
               <li>
