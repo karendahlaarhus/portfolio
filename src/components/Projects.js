@@ -15,9 +15,14 @@ export default function Projects() {
                 </p>
                 <p>
                   Utviklet som en del av et gruppeprosjekt i faget IT2805
-                  Webteknologi, første semester på informatikkstudiet. Sjekk den
-                  ut{" "}
-                  <a href="http://folk.ntnu.no/karendaa/Webteknologi/venziaFERDIG/Prosjekt/html/">
+                  Webteknologi, første semester på informatikkstudiet.
+                  <br />
+                  Sjekk den ut
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="http://folk.ntnu.no/karendaa/Webteknologi/venziaFERDIG/Prosjekt/html/"
+                  >
                     her
                   </a>
                 </p>
@@ -28,7 +33,12 @@ export default function Projects() {
                 </p>
                 <p>
                   Utviklet som en del av et gruppeprosjekt i faget IT2810
-                  Webutvikling.
+                  Webutvikling ved bruk av React og TypeScript.
+                  <br />
+                  Sjekk den ut
+                  <a target="_blank" rel="noreferrer" href=" ">
+                    her
+                  </a>
                 </p>
               </li>
               <li>
