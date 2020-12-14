@@ -10,35 +10,35 @@ export default function Projects() {
           <div className="projects-wrapper">
             <ul className="project-items">
               <li>
-                <p>
-                  <b>Venzia - Hjemmeside for en fiktiv restaurant</b>
-                </p>
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="http://folk.ntnu.no/karendaa/Webteknologi/venziaFERDIG/Prosjekt/html/"
+                >
+                  <p>
+                    <b>Venzia - Hjemmeside for en fiktiv restaurant</b>
+                  </p>
+                </a>
                 <p>
                   Utviklet som en del av et gruppeprosjekt i faget IT2805
                   Webteknologi, første semester på informatikkstudiet.
                   <br />
-                  Sjekk den ut{" "}
-                  <a
-                    target="_blank"
-                    rel="noreferrer"
-                    href="http://folk.ntnu.no/karendaa/Webteknologi/venziaFERDIG/Prosjekt/html/"
-                  >
-                    her
-                  </a>
                 </p>
               </li>
               <li>
-                <p>
-                  <b>Bon apetit - Oppskriftsdatabase</b>
-                </p>
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://5fcf8c8e40cd2bfb8be81c25--upbeat-noyce-f6ec83.netlify.app/"
+                >
+                  <p>
+                    <b>Bon apetit - Oppskriftsdatabase</b>
+                  </p>
+                </a>
                 <p>
                   Utviklet som en del av et gruppeprosjekt i faget IT2810
                   Webutvikling ved bruk av React og TypeScript.
                   <br />
-                  Sjekk den ut{" "}
-                  <a target="_blank" rel="noreferrer" href=" ">
-                    her
-                  </a>
                 </p>
               </li>
             </ul>

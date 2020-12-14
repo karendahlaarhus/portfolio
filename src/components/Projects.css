@@ -45,3 +45,12 @@ h3{
   margin-bottom: 30px;
 
 }
+
+a{
+  font-style: italic;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+  color: whitesmoke;
+}
