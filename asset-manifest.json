@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ec9be332.chunk.css",
-    "main.js": "/portfolio/static/js/main.4ab27b1e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4ab27b1e.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a13abac3.chunk.css",
+    "main.js": "/portfolio/static/js/main.b4756c08.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b4756c08.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
     "static/js/2.c5876f0f.chunk.js": "/portfolio/static/js/2.c5876f0f.chunk.js",
     "static/js/2.c5876f0f.chunk.js.map": "/portfolio/static/js/2.c5876f0f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.ec9be332.chunk.css.map": "/portfolio/static/css/main.ec9be332.chunk.css.map",
+    "static/css/main.a13abac3.chunk.css.map": "/portfolio/static/css/main.a13abac3.chunk.css.map",
     "static/js/2.c5876f0f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c5876f0f.chunk.js.LICENSE.txt",
     "static/media/circle-cropped.49d3e14b.png": "/portfolio/static/media/circle-cropped.49d3e14b.png",
     "static/media/Welcome.css": "/portfolio/static/media/rosa.20d499e5.jpeg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.8fed2963.js",
     "static/js/2.c5876f0f.chunk.js",
-    "static/css/main.ec9be332.chunk.css",
-    "static/js/main.4ab27b1e.chunk.js"
+    "static/css/main.a13abac3.chunk.css",
+    "static/js/main.b4756c08.chunk.js"
   ]
 }
