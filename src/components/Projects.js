@@ -14,6 +14,7 @@ export default function Projects() {
                   target="_blank"
                   rel="noreferrer"
                   href="http://folk.ntnu.no/karendaa/Webteknologi/venziaFERDIG/Prosjekt/html/"
+                  className="project-link"
                 >
                   <p>
                     <b>Venzia - Hjemmeside for en fiktiv restaurant</b>
@@ -30,6 +31,7 @@ export default function Projects() {
                   target="_blank"
                   rel="noreferrer"
                   href="https://5fcf8c8e40cd2bfb8be81c25--upbeat-noyce-f6ec83.netlify.app/"
+                  className="project-link"
                 >
                   <p>
                     <b>Bon apetit - Oppskriftsdatabase</b>
