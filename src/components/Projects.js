@@ -26,7 +26,7 @@ export default function Projects() {
                   <br />
                 </p>
               </li>
-              <li>
+              {/* <li>
                 <a
                   target="_blank"
                   rel="noreferrer"
@@ -42,7 +42,7 @@ export default function Projects() {
                   Webutvikling ved bruk av React og TypeScript.
                   <br />
                 </p>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
