@@ -16,7 +16,7 @@ function About() {
                 <h3 className="about-title">Om meg</h3>
                 <p className="about-text">
                   Jeg heter Karen og jeg er en student på 3. året av en bachelor
-                  i informatikk ved NTNU i Trondheim! Her har jeg samlet
+                  i informatikk ved NTNU i Trondheim! Her skal/har jeg samlet
                   prosjekter jeg har jobbet med både privat og i
                   studie-sammenheng, sjekk de gjerne ut lenger ned på siden :)
                 </p>
